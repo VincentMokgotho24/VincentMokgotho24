@@ -10,7 +10,7 @@ I am a data-driven problem solver with a passion for turning messy, real-world d
 *   **Development & Tools:** Jupyter Notebook, GitHub, HTML/CSS (Fullstack)
 
 ### 🚀 Featured Projects
-*   **[Cyclistic Bike-Share Analysis](#)**: Analysed 12 months of Chicago bike-share data using Python and Tableau to find conversion insights.
+*   **[Cyclistic-Bike-Share Analysis](#)**: Analysed 12 months of Chicago bike-share data using Python and Tableau to find conversion insights.
 *   **[Household Data Analysis](#)**: Used Excel and descriptive statistics to uncover socio-economic disparities in South African households.
 *   **[Power BI Dashboard](#)**: Built an interactive dashboard using Power Query and Data Modeling.
 
